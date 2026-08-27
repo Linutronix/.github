@@ -2,16 +2,16 @@
 
 ## Linux for Industry
 
-We bring it together.
+Linux Consulting Services for Secure and Reliable Embedded Systems
 
-Linutronix GmbH is one of the leading service providers for all aspects of **Open Source** in industrial environments.
+At Linutronix, we help organizations build, secure, and maintain reliable embedded Linux systems for demanding industrial applications. With decades of experience in Linux, real-time technologies, and industrial-grade software, our experts turn complex technical requirements into robust, secure, and sustainable solutions.
 
-Ranging from board support package, to the development environment and browser application, to consultation services for ongoing projects, we offer the full range of support from **one single source**!
+Our consulting goes beyond standard Linux distributions. We support customers throughout the entire product lifecycle - from system architecture, development, and customization to security, maintenance, and compliance. Whether you need support for an entire project or a specific technical challenge, our experts provide the right expertise and solutions.
 
-However, all-in-one solutions are only a part of what we can offer. We also provide support for individual aspects of your projects.
+Linutronix is also deeply involved in the ongoing development of Linux and real-time technologies. As the creators and driving force behind PREEMPT_RT, the de facto standard for real-time Linux, we bring unique expertise in deterministic and time-critical systems. Our team also contributes to the Linux kernel and maintains key components such as the x86 architecture and parts of the flash infrastructure.
 
-Naturally, we are committed to actively furthering the **development of Linux**. Among other things, we are maintainers of the **x86 architecture** and have also developed essential parts of the flash driver infrastructure – just to name two examples.
+With IGLOS (Industrial Grade Linux Operating System), we take this expertise one step further, providing a secure, reliable, and maintainable Linux platform specifically designed for industrial applications.
 
-Moreover, we are the **creators of PREEMPT_RT** – the de facto standard for Linux and Realtime! For this, the Linux Foundation lays its trust in our knowledge to advance the integration into the mainline Linux kernel!
+By partnering with Linutronix, organizations gain a proven technology partner focused on long-term stability, reliability, security, and successful deployment of embedded Linux systems.
 
-Visit [linutronix.de](https://www.linutronix.de) to learn more.
+Visit us on www.linutronix.com and on www.iglos.com
