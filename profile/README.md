@@ -1,4 +1,5 @@
-![Linutronix](https://github.com/Linutronix/.github/blob/master/images/lx_logo.png) 
+![Linutronix](https://github.com/Linutronix/.github/blob/master/images/lx_logo_w.png#gh-dark-mode-only)
+![Linutronix](https://github.com/Linutronix/.github/blob/master/images/lx_logo.png#gh-light-mode-only)
 
 ## Linux for Industry
 
